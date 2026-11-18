@@ -83,7 +83,7 @@ Die Dateien mit der Endung `.sig` und `latest.json` sind für die automatischen 
 ### Unterstützen
 
 Studio for Replicate ist ein Ein-Personen-Projekt. Wenn dir die App Zeit spart, freue ich mich über einen Kaffee:
-☕ **[Kaffee spendieren](https://agenturwehrli.payrexx.com/)**
+☕ **[Kaffee spendieren](https://revolut.me/danwehrli)**
 
 ---
 
@@ -146,7 +146,7 @@ Files ending in `.sig` and `latest.json` are used for automatic updates and don'
 ### Support
 
 Studio for Replicate is a one-person project. If it saves you time, a coffee is much appreciated:
-☕ **[Buy me a coffee](https://agenturwehrli.payrexx.com/)**
+☕ **[Buy me a coffee](https://revolut.me/danwehrli)**
 
 ---
 
