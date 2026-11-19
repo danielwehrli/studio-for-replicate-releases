@@ -36,6 +36,7 @@ Ein schlankes Programm für deinen Computer, mit dem du die besten KI-Modelle f�
 - **Video bearbeiten:** Personen ersetzen, Bewegungen übertragen, Videos per Text verändern, verlängern, Objekte entfernen, hochskalieren, übersetzen
 - **Bildwerkzeuge:** Virtuelle Anprobe (Try-On), Hintergrund entfernen oder ersetzen, Bild erweitern, Hochskalieren, in SVG umwandeln
 - **3D:** 3D-Modelle (GLB) aus Text oder einem Bild, mit eingebautem 3D-Viewer
+- **Avatar & eigene Stimme:** Stimme aus einer Aufnahme klonen und speichern, dann spricht ein Bild deinen Text mit dieser Stimme
 - **Musik & Sprache:** Songs mit Gesang (Lyria, MiniMax Music) und Sprachausgabe (ElevenLabs, Gemini, Grok)
 - **Beliebiges Modell:** Jedes öffentliche Modell von replicate.com lässt sich laden, das Formular entsteht automatisch.
 - Referenzbilder per Klick, Drag & Drop, URL oder direkt aus deinen bisherigen Ergebnissen
@@ -101,6 +102,7 @@ A lightweight desktop app that lets you use top AI models for images, videos and
 - **Edit video:** replace people, transfer motion, edit with text, extend, erase objects, upscale, translate
 - **Image tools:** virtual try-on, remove or replace backgrounds, expand images, upscale, vectorize to SVG
 - **3D:** 3D models (GLB) from text or an image, with a built-in 3D viewer
+- **Avatar & your own voice:** clone and save a voice from a recording, then make an image speak your text in that voice
 - **Music & speech:** songs with vocals (Lyria, MiniMax Music) and text-to-speech (ElevenLabs, Gemini, Grok)
 - **Any model:** load any public model from replicate.com; the form is generated automatically
 - Reference images via file picker, drag & drop, URL or straight from your previous results
