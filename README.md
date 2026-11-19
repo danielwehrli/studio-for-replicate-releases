@@ -30,11 +30,13 @@
 
 Ein schlankes Programm für deinen Computer, mit dem du die besten KI-Modelle für Bilder, Videos und 3D nutzt, ohne Code und ohne Abo. Du gibst einen Prompt ein, wählst bei Bedarf Referenzbilder aus und klickst auf «Generieren». Die Ergebnisse werden automatisch auf deinem Computer gespeichert.
 
-- **Bild:** Nano Banana, GPT Image, FLUX, Seedream, Imagen, Recraft, Qwen, Krea und viele mehr
-- **Video:** Veo, Kling, Wan, Seedance, PixVerse, Hailuo, Grok und viele mehr
-- **Video bearbeiten:** Personen ersetzen, Bewegungen übertragen, Videos per Text verändern, Videos übersetzen
-- **Bildwerkzeuge:** Virtuelle Anprobe (Try-On), Hintergrund entfernen, Hochskalieren
-- **3D:** 3D-Modelle (GLB) aus Text oder einem Bild
+- **Über 100 Modelle**, darunter die neuesten offiziellen Modelle auf Replicate
+- **Bild:** Nano Banana, GPT Image 2.6, FLUX, Seedream, Imagen, Ideogram 4.5, Recraft (auch SVG), Qwen, Krea und viele mehr
+- **Video:** Gemini Omni 1.2, Veo, Kling 4, MiniMax H3, Wan 3, Seedance, LTX, PixVerse, Grok und viele mehr, dazu sprechende Avatare
+- **Video bearbeiten:** Personen ersetzen, Bewegungen übertragen, Videos per Text verändern, verlängern, Objekte entfernen, hochskalieren, übersetzen
+- **Bildwerkzeuge:** Virtuelle Anprobe (Try-On), Hintergrund entfernen oder ersetzen, Bild erweitern, Hochskalieren, in SVG umwandeln
+- **3D:** 3D-Modelle (GLB) aus Text oder einem Bild, mit eingebautem 3D-Viewer
+- **Musik & Sprache:** Songs mit Gesang (Lyria, MiniMax Music) und Sprachausgabe (ElevenLabs, Gemini, Grok)
 - **Beliebiges Modell:** Jedes öffentliche Modell von replicate.com lässt sich laden, das Formular entsteht automatisch.
 - Referenzbilder per Klick, Drag & Drop, URL oder direkt aus deinen bisherigen Ergebnissen
 - Mehrere Aufträge gleichzeitig, lokale Galerie mit Suche
@@ -93,11 +95,13 @@ Studio for Replicate ist ein Ein-Personen-Projekt. Wenn dir die App Zeit spart, 
 
 A lightweight desktop app that lets you use top AI models for images, videos and 3D, with no code and no subscription. Enter a prompt, add reference images if you like, and click "Generate". Results are saved to your computer automatically.
 
-- **Image:** Nano Banana, GPT Image, FLUX, Seedream, Imagen, Recraft, Qwen, Krea and many more
-- **Video:** Veo, Kling, Wan, Seedance, PixVerse, Hailuo, Grok and many more
-- **Edit video:** replace people, transfer motion, edit videos with text, translate videos
-- **Image tools:** virtual try-on, background removal, upscaling
-- **3D:** 3D models (GLB) from text or an image
+- **100+ models**, including the newest official models on Replicate
+- **Image:** Nano Banana, GPT Image 2.6, FLUX, Seedream, Imagen, Ideogram 4.5, Recraft (incl. SVG), Qwen, Krea and many more
+- **Video:** Gemini Omni 1.2, Veo, Kling 4, MiniMax H3, Wan 3, Seedance, LTX, PixVerse, Grok and many more, plus talking avatars
+- **Edit video:** replace people, transfer motion, edit with text, extend, erase objects, upscale, translate
+- **Image tools:** virtual try-on, remove or replace backgrounds, expand images, upscale, vectorize to SVG
+- **3D:** 3D models (GLB) from text or an image, with a built-in 3D viewer
+- **Music & speech:** songs with vocals (Lyria, MiniMax Music) and text-to-speech (ElevenLabs, Gemini, Grok)
 - **Any model:** load any public model from replicate.com; the form is generated automatically
 - Reference images via file picker, drag & drop, URL or straight from your previous results
 - Run several jobs at once, local gallery with search
