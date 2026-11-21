@@ -129,7 +129,7 @@ A lightweight desktop app that lets you use top AI models for images, videos and
 - **Audio (music & speech):** songs with vocals (Lyria, MiniMax Music) and text-to-speech (ElevenLabs, Gemini, Grok)
 - **Any model:** load any public model from replicate.com; the form is generated automatically
 - Reference images via file picker, drag & drop, URL or straight from your previous results
-- Run several jobs at once, local gallery with search
+- Run several jobs at once, local gallery with search and folders
 - Automatic updates
 
 ### Download
