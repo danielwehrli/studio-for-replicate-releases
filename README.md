@@ -5,8 +5,8 @@
 <h1 align="center">Studio for Replicate</h1>
 
 <p align="center">
-  <strong>Desktop-Studio für KI-Bilder, -Videos und 3D – mit den Modellen auf Replicate.</strong><br>
-  <em>Desktop studio for AI images, videos and 3D – powered by the models on Replicate.</em><br><br>
+  <strong>Über 100 KI-Modelle von Replicate in einer kostenlosen Desktop-App: Bilder, Videos, sprechende Avatare, 3D und Audio.</strong><br>
+  <em>100+ AI models from Replicate in one free desktop app: images, video, talking avatars, 3D and audio.</em><br><br>
   macOS · Windows · Linux &nbsp;|&nbsp; Deutsch · English
 </p>
 
@@ -15,8 +15,31 @@
 </p>
 
 <p align="center">
-  <img src="docs/models.jpg" width="820" alt="Studio for Replicate – Modellauswahl">
+  <a href="https://www.producthunt.com/posts/studio-for-replicate"><img src="https://img.shields.io/badge/Product%20Hunt-Studio%20for%20Replicate-DA552F?logo=producthunt&logoColor=white" alt="Studio for Replicate auf Product Hunt"></a>
 </p>
+
+<p align="center">
+  <img src="docs/producthunt/1_hero_1270.png" width="860" alt="Studio for Replicate">
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/producthunt/2_models_1270.png" alt="100+ Modelle mit Preisangabe / 100+ models with prices"></td>
+    <td width="50%"><img src="docs/producthunt/3_avatar_1270.png" alt="Sprechende Avatare mit eigener Stimme / Talking avatars in your own voice"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Über 100 Modelle, Preise vorab sichtbar</b><br><i>100+ models, prices shown upfront</i></sub></td>
+    <td align="center"><sub><b>Sprechende Avatare mit deiner eigenen Stimme</b><br><i>Talking avatars in your own voice</i></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/producthunt/4_reuse_1270.png" alt="Ergebnisse als Referenz wiederverwenden / Reuse results as references"></td>
+    <td width="50%"><img src="docs/producthunt/5_gallery_1270.png" alt="Galerie mit Suche und Ordnern / Gallery with search and folders"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Jedes Ergebnis als Referenz fürs nächste</b><br><i>Every result becomes your next reference</i></sub></td>
+    <td align="center"><sub><b>Galerie mit Suche und Ordnern</b><br><i>Searchable gallery with folders</i></sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -40,7 +63,7 @@ Ein schlankes Programm für deinen Computer, mit dem du die besten KI-Modelle f�
 - **Audio (Musik & Sprache):** Songs mit Gesang (Lyria, MiniMax Music) und Sprachausgabe (ElevenLabs, Gemini, Grok)
 - **Beliebiges Modell:** Jedes öffentliche Modell von replicate.com lässt sich laden, das Formular entsteht automatisch.
 - Referenzbilder per Klick, Drag & Drop, URL oder direkt aus deinen bisherigen Ergebnissen
-- Mehrere Aufträge gleichzeitig, lokale Galerie mit Suche
+- Mehrere Aufträge gleichzeitig, lokale Galerie mit Suche und Ordnern
 - Automatische Updates
 
 ### Download
